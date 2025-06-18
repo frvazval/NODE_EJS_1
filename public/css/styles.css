@@ -10,3 +10,18 @@ h1 {
     font-size: 3rem;
     color: steelblue;
 }
+
+footer {
+    height: 150px;
+    background-color: darkgreen;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+
+    p {
+        text-align: center;
+        font-size: 1.5rem;
+    }
+}
